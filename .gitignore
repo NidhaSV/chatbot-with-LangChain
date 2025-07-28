@@ -1,0 +1,12 @@
+# For Python fastapi project
+.env
+__pycache__
+
+# For Java Spark project for Chat Frontend
+target/
+build/
+bin/
+.settings/
+.vscode/
+.idea/
+.DS_Store

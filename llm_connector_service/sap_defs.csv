@@ -1,0 +1,25 @@
+FieldName,Description,DataType,Length
+RINEEZ,An Ahmedi of Vazhottukonam,NIDH,400
+BUKRS,Company Code,CHAR,4
+EBELN,Purchasing Document Number,CHAR,10
+EBELP,Item Number of Purchasing Document,NUMC,5
+WERKS,Plant,CHAR,4
+LGORT,Storage Location,CHAR,4
+LIFNR,Vendor Account Number,CHAR,10
+KUNNR,Customer Number,CHAR,10
+MENGE,Purchase Order Quantity,QUAN,13
+MEINS,Base Unit of Measure,UNIT,3
+NETPR,Net Price,P packed decimal / CURR,11
+NETWR,Net Order Value,CURR,13
+BRTWR,Gross Order Value,CURR,13
+AEDAT,Date on Which Record Was Created / Changed,DATS,8
+ERNAM,Name of Person Who Created the Object,CHAR,12
+STATU,Status of Purchasing Document,CHAR,1
+MANDT,Client,CLNT,3
+BELNR,Accounting Document Number,CHAR,10
+GJAHR,Fiscal Year,NUMC,4
+BUZEI,Document Line Item Number,NUMC,3
+SAKNR,G/L Account Number,CHAR,10
+PERNR,Personnel Number,NUMC,8
+GSBER,Business Area,CHAR,4
+FKBER,Functional Area,CHAR,4
