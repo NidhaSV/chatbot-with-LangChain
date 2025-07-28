@@ -72,8 +72,8 @@ Both services must be running for the chatbot to work.
 ## 5. Project Structure
 
 ```
-chatbot_with_rag/
-  ├── llm_connector_service/   # Python FastAPI backend (RAG + LLM)
+<Project Root>/
+  ├── llm_connector_service/   # Python FastAPI backend (RAG pipeline)
   └── java_chat_client/        # Java Spark frontend (UI)
 ```
 

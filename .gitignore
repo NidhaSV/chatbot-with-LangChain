@@ -10,3 +10,6 @@ bin/
 .vscode/
 .idea/
 .DS_Store
+
+*.pkl
+*.faiss
