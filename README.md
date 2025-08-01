@@ -1,3 +1,4 @@
+### Internship project 1
 # Chatbot with RAG
 
 A simple chatbot enhanced with Retrieval Augmented Generation (RAG) using FAISS vector database and Anthropic's LLM API.  
